@@ -7,7 +7,7 @@ first_name: Projection
 middle_name: -
 last_name: Alt
 contact_note: >
-  You can do it too
+  You can do it too...
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
